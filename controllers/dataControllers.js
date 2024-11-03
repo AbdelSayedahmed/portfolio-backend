@@ -15,7 +15,6 @@ data.get("/skills", async (req, res) => {
   try {
     const allSkills = await getAllSkills();
     res.status(200).json(allSkills);
-    console.log(allSkills);
   } catch {
     res.status(500).json({ error: "Server error" });
   }
