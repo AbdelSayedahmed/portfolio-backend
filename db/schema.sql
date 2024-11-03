@@ -11,7 +11,8 @@ CREATE TABLE projects (
     frontend_link TEXT,
     backend_link TEXT,
     deployed_link TEXT,
-    image_url TEXT created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    image_url TEXT,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
