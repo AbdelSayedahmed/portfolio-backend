@@ -1,16 +1,23 @@
 const db = require("../db/db-config.js");
 
-const getAllProjects = () => {
+const getAllProjects = async () => {
   try {
-    return db.query("SELECT * FROM projects").then((data) => data.rows);
+    const allProjects = await db.any("SELECT * FROM projects");
+    return allProjects;
   } catch (error) {
     console.error("Error fetching projects:", error);
     throw new Error("Server Error");
   }
 };
 
-const getAllSkills = () => {
-  return db.query("SELECT * FROM skills").then((data) => data.rows);
+const getAllSkills = async () => {
+  try {
+    const allSkills = await db.any("SELECT * FROM skills");
+    return allSkills;
+  } catch (error) {
+    console.error("Error fetching skills:", error);
+    throw new Error("Server Error");
+  }
 };
 
 module.exports = {

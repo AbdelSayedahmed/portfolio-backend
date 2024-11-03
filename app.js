@@ -4,7 +4,7 @@ const express = require("express");
 // const { verifyToken } = require("./middleware/auth.middleware.js");
 
 // Route Imports
-const dataController = require("./controllers/dataControllers.js");
+const data = require("./controllers/dataControllers.js");
 
 // Configuration
 const app = express();
@@ -23,7 +23,7 @@ app.use(express.json());
 app.get("/", (req, res) => res.send("Welcome to Abdel's API!"));
 
 // Routes
-app.use("/data", dataController);
+app.use("/data", data);
 
 // 404 Page
 app.get("*", (req, res) => res.status(404).send("Page not found"));
