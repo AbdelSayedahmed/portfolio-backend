@@ -16,7 +16,7 @@ VALUES
         'https://github.com/anthonymartz17/ihelp_frontend_organization',
         'https://github.com/AbdelSayedahmed/ihelp-backend',
         'https://ihelp-org.netlify.app/login',
-        'https://github.com/anthonymartz17/ihelp_frontend_organization/blob/main/src/assets/logo/logo_dark.png?raw=true'
+        'https://github.com/anthonymartz17/ihelp_frontend_organization/blob/main/src/assets/logo/white_bg_ihelp_logo.png?raw=true'
     ),
     (
         'Recipe Project',
