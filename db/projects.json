@@ -1,0 +1,39 @@
+[
+  {
+    "name": "iHelp",
+    "description": "iHelp is a dynamic platform designed to bridge the gap between community organizations and teen volunteers, fostering meaningful connections while making volunteering an engaging and rewarding experience. Tailored to address the challenges non-profits face in recruiting and managing volunteers, iHelp provides two distinct interfaces, Administrative Side and the Volunteer Side.",
+    "frontendLink": [
+      "https://github.com/anthonymartz17/ihelp_frontend_organization",
+      "https://github.com/anthonymartz17/ihelp-volunteers-frontend"
+    ],
+    "backendLink": ["https://github.com/AbdelSayedahmed/ihelp-backend"],
+    "deployedLink": [
+      "https://ihelp-org.netlify.app/login",
+      "https://ihelp-demo.netlify.app/login"
+    ],
+    "image_url": "https://github.com/anthonymartz17/ihelp_frontend_organization/blob/main/src/assets/logo/white_bg_ihelp_logo.png?raw=true",
+    "skillSetIds": ""
+  },
+  {
+    "name": "Recipe Project",
+    "description": "Culinary Compass is a web application designed to provide an extensive collection of recipes from around the world. Users can browse, contribute, and edit recipes while engaging with a community of food enthusiasts.",
+    "frontendLink": [
+      "https://github.com/AbdelSayedahmed/AbdelSayedahmed-Recipe-Project-FrontEnd"
+    ],
+    "backendLink": ["https://github.com/ayoublos/Recipe-Project-BackEnd"],
+    "deployedLink": ["https://culinarycompass.netlify.app/"],
+    "image_url": "https://culinarycompass.netlify.app/app-logos/culinary-compass-logo.png",
+    "skillSetIds": ""
+  },
+  {
+    "name": "BudgetWise",
+    "description": "BudgetWise is a web application designed to help users manage their finances effectively. It provides a user-friendly interface for tracking income, expenses, and savings. Users can set financial goals, monitor their progress, and receive personalized financial advice.",
+    "frontendLink": [
+      "https://github.com/AbdelSayedahmed/budgeting-app-frontend"
+    ],
+    "backendLink": ["https://github.com/AbdelSayedahmed/budgeting-app-backend"],
+    "deployedLink": ["https://budgetwise-demo.netlify.app/"],
+    "image_url": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/Logo.png?raw=true",
+    "skillSetIds": ""
+  }
+]
