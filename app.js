@@ -4,7 +4,7 @@ const express = require("express");
 // const { verifyToken } = require("./middleware/auth.middleware.js");
 
 // Route Imports
-const router = require("./controllers/dataControllers.js");
+const data = require("./controllers/dataControllers.js");
 
 // Configuration
 const app = express();
