@@ -1,61 +1,61 @@
 [
   {
-    "id": 1,
+    "id": "aC1K5v3Lx2G9MqnP",
     "name": "HTML",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
   },
   {
-    "id": 2,
+    "id": "bF2lJ8Rx5W7PkWqB",
     "name": "CSS",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   },
   {
-    "id": 3,
+    "id": "cL3Vz9Jx6M8PkRnX",
     "name": "JavaScript",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   },
   {
-    "id": 4,
+    "id": "dM4K1v7Lx3P5MqnP",
     "name": "React",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
   },
   {
-    "id": 5,
+    "id": "eN5lJ9Rx2K7PkWqB",
     "name": "Node.js",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
   },
   {
-    "id": 6,
+    "id": "fO6Vz8Jx5M6PkRnX",
     "name": "Express.js",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
   },
   {
-    "id": 7,
+    "id": "gP7K2v9Lx4G8MqnP",
     "name": "Firebase",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
   },
   {
-    "id": 8,
+    "id": "hQ8lJ1Rx6W5PkWqB",
     "name": "Tailwind CSS",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
   },
   {
-    "id": 9,
+    "id": "iR9Vz2Jx3M8PkRnX",
     "name": "Bootstrap",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   },
   {
-    "id": 10,
+    "id": "jS1K3v8Lx7G9MqnP",
     "name": "VSCode",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
   },
   {
-    "id": 11,
+    "id": "kT2lJ4Rx8W6PkWqB",
     "name": "Git",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   },
   {
-    "id": 12,
+    "id": "lU3Vz7Jx9M5PkRnX",
     "name": "Python",
     "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   }
