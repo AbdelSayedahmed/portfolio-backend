@@ -44,7 +44,7 @@
         "Deployed Link": "https://culinarycompass.netlify.app/"
       }
     ],
-    "image_url": "https://culinarycompass.netlify.app/app-logos/culinary-compass-logo.png",
+    "image_url": "https://github.com/AbdelSayedahmed/AbdelSayedahmed-Recipe-Project-FrontEnd/blob/main/public/app-logos/CulinaryCompass.png?raw=true",
     "skillSetIds": ""
   },
   {
@@ -66,7 +66,7 @@
         "Deployed Link": "https://budgetwise-demo.netlify.app/"
       }
     ],
-    "image_url": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/Logo.png?raw=true",
+    "image_url": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/BudgetWise.png?raw=true",
     "skillSetIds": ""
   }
 ]
