@@ -22,8 +22,18 @@
         "Volunteer Deployed Link": "https://ihelp-demo.netlify.app/login"
       }
     ],
-    "image_url": "https://github.com/anthonymartz17/ihelp_frontend_organization/blob/main/src/assets/logo/white_bg_ihelp_logo.png?raw=true",
-    "skillSetIds": ""
+    "imageUrl": "https://github.com/anthonymartz17/ihelp_frontend_organization/blob/main/src/assets/logo/white_bg_ihelp_logo.png?raw=true",
+    "skillSet": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Firebase",
+      "Tailwind CSS",
+      "PostgreSQL"
+    ]
   },
   {
     "id": "aF5lD3Jx8R7PkWqB",
@@ -44,8 +54,17 @@
         "Deployed Link": "https://culinarycompass.netlify.app/"
       }
     ],
-    "image_url": "https://github.com/AbdelSayedahmed/AbdelSayedahmed-Recipe-Project-FrontEnd/blob/main/public/app-logos/CulinaryCompass.png?raw=true",
-    "skillSetIds": ""
+    "imageUrl": "https://github.com/AbdelSayedahmed/AbdelSayedahmed-Recipe-Project-FrontEnd/blob/main/public/app-logos/CulinaryCompass.png?raw=true",
+    "skillSet": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Tailwind CSS",
+      "PostgreSQL"
+    ]
   },
   {
     "id": "pL7Vz4Jx9W3PkRnX",
@@ -66,33 +85,61 @@
         "Deployed Link": "https://budgetwise-demo.netlify.app/"
       }
     ],
-    "image_url": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/BudgetWise.png?raw=true",
-    "skillSetIds": ""
+    "imageUrl": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/BudgetWise.png?raw=true",
+    "skillSet": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Express.js"]
   },
   {
     "id": "mLaLS98TR8fKexrEZ4xnB",
-    "Name": "Demo Youtube",
-    "Description": "Demo Youtube is a web application is designed to show my abilities in building a youtube clone. It provides a user-friendly interface for browsing, searching, and watching videos. Users can explore a wide range of videos and channels. It demonstrates my skills in using API and API calls.",
-    "FrontendLink": [
+    "name": "Demo Youtube",
+    "description": "Demo Youtube is a web application is designed to show my abilities in building a youtube clone. It provides a user-friendly interface for browsing, searching, and watching videos. Users can explore a wide range of videos and channels. It demonstrates my skills in using API and API calls.",
+    "frontendLink": [
       {
         "Frontend Repository": "https://github.com/AbdelSayedahmed/demo-youtube"
       }
     ],
-    "BackendLink": [{}],
-    "DeployedLink": [
-      { "Deployed Link": "https://demoyoutubeproject.netlify.app/" }
+    "backendLink": [],
+    "deployedLink": [
+      {
+        "Deployed Link": "https://demoyoutubeproject.netlify.app/"
+      }
     ],
-    "Image_url": "https://github.com/AbdelSayedahmed/Demo-Youtube/blob/main/public/DemoYoutube.png?raw=true",
-    "SkillSetIds": ""
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/300px-YouTube_social_white_squircle_%282017%29.svg.png",
+    "skillSet": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Firebase"
+    ]
   },
   {
     "id": "BK69yROU8QlJw3_Wq3KOe",
-    "Name": "Portfolio",
-    "Description": "This is my portfolio website, it's a simple website that shows my skills and projects. It's built using React, Tailwind CSS, and Firebase. It also includes my contact information and links to my social accounts and resume.",
-    "FrontendLink": [{}],
-    "BackendLink": [{}],
-    "DeployedLink": [{}],
-    "Image_url": "https://github.com/AbdelSayedahmed/Demo-Youtube/blob/main/public/DemoYoutube.png?raw=true",
-    "SkillSetIds": ""
+    "name": "Portfolio",
+    "description": "This is my portfolio website, it's a simple website that shows my skills and projects. It's built using React, Tailwind CSS, and Firebase. It also includes my contact information and links to my social accounts and resume.",
+    "frontendLink": [
+      {
+        "Frontend Repository": "https://github.com/AbdelSayedahmed/portfolio-frontend"
+      }
+    ],
+    "backendLink": [
+      {
+        "Backend Repository": "https://github.com/AbdelSayedahmed/portfolio-backend"
+      }
+    ],
+    "deployedLink": [{}],
+    "imageUrl": "",
+    "skillSet": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express.js",
+      "Firebase",
+      "Tailwind CSS",
+      "Bootstrap"
+    ]
   }
 ]
