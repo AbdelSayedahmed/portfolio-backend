@@ -68,5 +68,31 @@
     ],
     "image_url": "https://github.com/AbdelSayedahmed/budgeting-app-frontend/blob/main/public/BudgetWise.png?raw=true",
     "skillSetIds": ""
+  },
+  {
+    "id": "mLaLS98TR8fKexrEZ4xnB",
+    "Name": "Demo Youtube",
+    "Description": "Demo Youtube is a web application is designed to show my abilities in building a youtube clone. It provides a user-friendly interface for browsing, searching, and watching videos. Users can explore a wide range of videos and channels. It demonstrates my skills in using API and API calls.",
+    "FrontendLink": [
+      {
+        "Frontend Repository": "https://github.com/AbdelSayedahmed/demo-youtube"
+      }
+    ],
+    "BackendLink": [{}],
+    "DeployedLink": [
+      { "Deployed Link": "https://demoyoutubeproject.netlify.app/" }
+    ],
+    "Image_url": "https://github.com/AbdelSayedahmed/Demo-Youtube/blob/main/public/DemoYoutube.png?raw=true",
+    "SkillSetIds": ""
+  },
+  {
+    "id": "BK69yROU8QlJw3_Wq3KOe",
+    "Name": "Portfolio",
+    "Description": "This is my portfolio website, it's a simple website that shows my skills and projects. It's built using React, Tailwind CSS, and Firebase. It also includes my contact information and links to my social accounts and resume.",
+    "FrontendLink": [{}],
+    "BackendLink": [{}],
+    "DeployedLink": [{}],
+    "Image_url": "https://github.com/AbdelSayedahmed/Demo-Youtube/blob/main/public/DemoYoutube.png?raw=true",
+    "SkillSetIds": ""
   }
 ]
