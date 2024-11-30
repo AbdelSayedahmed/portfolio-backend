@@ -1,58 +1,72 @@
 [
   {
     "name": "HTML",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+    "color": "bg-orange-100 text-orange-800"
   },
   {
     "name": "CSS",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    "color": "bg-blue-100 text-blue-800"
   },
   {
     "name": "JavaScript",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+    "color": "bg-yellow-100 text-yellow-800"
   },
   {
     "name": "React",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+    "color": "bg-cyan-100 text-cyan-800"
   },
   {
     "name": "Node.js",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+    "color": "bg-green-100 text-green-800"
   },
   {
     "name": "Express.js",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+    "color": "bg-gray-100 text-gray-800"
   },
   {
     "name": "Firebase",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+    "color": "bg-yellow-100 text-yellow-800"
   },
   {
     "name": "Tailwind CSS",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+    "color": "bg-blue-100 text-blue-800"
   },
   {
     "name": "Bootstrap",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+    "color": "bg-purple-100 text-purple-800"
   },
   {
     "name": "VSCode",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg",
+    "color": "bg-blue-100 text-blue-800"
   },
   {
     "name": "Git",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+    "color": "bg-red-100 text-red-800"
   },
   {
     "name": "Python",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+    "color": "bg-blue-100 text-blue-800"
   },
   {
     "name": "Vite",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg",
+    "color": "bg-purple-100 text-purple-800"
   },
   {
     "name": "PostgreSQL",
-    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"
+    "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
+    "color": "bg-blue-100 text-blue-800"
   }
 ]
