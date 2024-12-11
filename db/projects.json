@@ -128,7 +128,7 @@
         "Backend Repository": "https://github.com/AbdelSayedahmed/portfolio-backend"
       }
     ],
-    "deployedLink": [{}],
+    "deployedLink": [{ "Deployed Link": "/" }],
     "imageUrl": "https://github.com/AbdelSayedahmed/portfolio-frontend/blob/main/public/images/thumbnail.png?raw=true",
     "skillSet": [
       "HTML",
